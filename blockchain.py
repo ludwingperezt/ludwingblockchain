@@ -1,3 +1,10 @@
+"""
+Tomado de "Learn Blockchains by Building One"
+https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+Autor: https://hackernoon.com/@vanflymen
+
+"""
+
 import hashlib
 import json
 import requests

@@ -1,3 +1,9 @@
+"""
+Tomado de "Learn Blockchains by Building One"
+https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+Autor: https://hackernoon.com/@vanflymen
+
+"""
 from blockchain import Blockchain
 from uuid import uuid4
 from flask import Flask, jsonify, request
