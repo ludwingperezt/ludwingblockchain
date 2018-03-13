@@ -99,3 +99,17 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Vagrant stuff
+.vagrant/
+acceptance_config.yml
+boxes/*
+/.vagrant
+/website/.vagrant
+/website/build
+/vagrant-spec.config.rb
+Vagrantfile
+puphpet/
+
+# Ignore Mac DS_Store files
+.DS_Store
